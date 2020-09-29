@@ -7,7 +7,7 @@
  - 🌱 &nbsp;I'm on track to learn more about Software Architecture, Artificial Intelligence and Cloud Solutions.
  - ✍️ &nbsp;In my free time, I like to experiment with new tech stacks, practice coding, and exercise.
  - ✉️ &nbsp;Feel free to email me at dmitrykutin@outlook.com for opportunities, consultation, or just to have an interesting discussion!
- - 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1gH4VsHFDbIUX-FTjeH4R93vIfQrLs7i6/view) for more details about me. I'm always open to feedback and suggestions!
+ - 📄 &nbsp;Please have a look at my [Resume](https://dmitrykutin.com/resume) for more details about me. I'm always open to feedback and suggestions!
 
 ### 🛠 &nbsp;Languages
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
